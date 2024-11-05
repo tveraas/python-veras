@@ -13,4 +13,4 @@ app.config.from_object(__name__)
 
 @app.route('/hello')
 def pagina_inicial():
-    return "Aprendendo"
+    return "Estudando"
